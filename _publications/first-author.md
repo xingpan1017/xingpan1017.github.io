@@ -1,5 +1,5 @@
 ---
-title: First-author publications
+title: "First-author publications"
 collection: publications
 category: manuscripts
 permalink: /publication/first-author.md
