@@ -1,5 +1,7 @@
 ---
+title: First-author publications
 collection: publications
+category: manuscripts
 permalink: /publication/first-author.md
 ---
 1. "Parallel Alignments between Magnetic Fields and Dense Structures in the Central Molecular Zone".
