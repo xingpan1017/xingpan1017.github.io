@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-[Full version of my CV](/files/xingpan_cv.pdf)
+[Full version of my CV](https://xingpan1017.github.io/files/xingpan_cv.pdf)
 
 Education
 ======
