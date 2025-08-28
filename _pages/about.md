@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Xing Pan (潘兴)"
+title: "Xing Pan 潘兴"
 author_profile: true
 redirect_from: 
   - /about/
