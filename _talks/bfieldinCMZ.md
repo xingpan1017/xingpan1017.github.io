@@ -1,7 +1,7 @@
 ---
 title: "The role of magnetic fields in the Galactic Center"
 collection: talks
-type: "Conference proceedings talk"
+type: "Talk"
 permalink: /talks/bfieldinCMZ
 
 ---
