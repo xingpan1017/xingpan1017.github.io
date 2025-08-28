@@ -12,7 +12,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Astronomy, Nanjing University, 2026 (expected)
+* Ph.D in Astronomy, Nanjing University, 2026 (expected), Supervisor: Prof. [Keping Qiu](https://astronomy.nju.edu.cn/EN/People/Professor/20200707/i113710.html)
 * B.S. in Astronomy, Nanjing University, 2020
 
 Visiting experience
